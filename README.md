@@ -1,5 +1,5 @@
 # burger_quiz
 ## Технологии:
-html;
-css;
-js.
+  html;
+  css;
+  js.
